@@ -1,2 +1,3 @@
 #1 -*- utf-8 -*-
-print("hello  world")
+#1/usr/bin/env python  
+print("hello world")
